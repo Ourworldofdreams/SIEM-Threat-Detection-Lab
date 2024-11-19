@@ -62,8 +62,7 @@ To test the SIEM’s detection capabilities, I simulated network reconnaissance 
 
 - **Outcome**: Elastic SIEM captured logs of the scanning activity.  
 ![Screenshot 2024-11-18 at 5 43 02 PM](https://github.com/user-attachments/assets/6d268c66-aac3-4c35-9b85-decb2de32547)
-
-![Screenshot: Nmap Logs in SIEM](path/to/nmap_logs.png)  
+  
 
 **Why It Matters**: Early detection of reconnaissance can prevent full-scale cyberattacks.  
 
